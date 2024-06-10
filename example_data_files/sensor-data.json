@@ -1,0 +1,702 @@
+[
+  {
+    "sensor_id": "S-02",
+    "measured": "2021-05-04 03:51:38",
+    "temp": 22.7129,
+    "hum": 74.5956,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "6.9 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2021-07-08 22:01:44",
+    "temp": 29.8732,
+    "hum": 71.4787,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "6 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2016-01-28 17:21:51",
+    "temp": 22.4846,
+    "hum": 76.2537,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "1.6 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2020-12-19 22:28:24",
+    "temp": 29.7025,
+    "hum": 72.8721,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "3.2 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2018-04-09 20:28:18",
+    "temp": 19.8029,
+    "hum": 67.2122,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "4.4 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2017-03-11 09:59:30",
+    "temp": 23.8605,
+    "hum": 71.2494,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "5.5 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2021-04-16 15:00:17",
+    "temp": 21.9098,
+    "hum": 77.4308,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "4 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2019-10-10 19:32:08",
+    "temp": 24.4606,
+    "hum": 71.1077,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "6.3 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2017-08-17 00:32:12",
+    "temp": 28.8475,
+    "hum": 70.4379,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "2.3 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2016-04-07 11:46:54",
+    "temp": 27.5474,
+    "hum": 70.148,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "6.6 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2017-04-13 22:48:45",
+    "temp": 27.0602,
+    "hum": 75.7226,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "6 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2017-08-20 08:33:31",
+    "temp": 20.0378,
+    "hum": 78.7291,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "3.6 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2021-09-03 13:09:32",
+    "temp": 26.0651,
+    "hum": 65.0969,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "4.3 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2014-07-08 12:57:35",
+    "temp": 25.5266,
+    "hum": 62.6186,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "4.6 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2019-10-05 00:30:35",
+    "temp": 29.4843,
+    "hum": 62.6526,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "7.2 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2016-07-13 06:08:48",
+    "temp": 27.0908,
+    "hum": 77.3409,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "5.9 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2015-04-16 08:30:49",
+    "temp": 22.3422,
+    "hum": 65.2097,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "5.3 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2015-02-19 15:31:42",
+    "temp": 20.3671,
+    "hum": 77.5776,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "6.9 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2014-06-06 14:30:02",
+    "temp": 18.2744,
+    "hum": 68.9232,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "1.8 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2020-08-20 09:41:32",
+    "temp": 24.5504,
+    "hum": 62.9957,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "4 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2020-03-28 12:06:55",
+    "temp": 21.8657,
+    "hum": 74.2151,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "4.8 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2016-06-13 09:08:37",
+    "temp": 25.6706,
+    "hum": 67.3038,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "2.8 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2015-12-15 10:11:22",
+    "temp": 19.3043,
+    "hum": 60.9996,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "1.8 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2016-11-30 13:41:30",
+    "temp": 19.2268,
+    "hum": 76.3123,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "2.8 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2017-02-22 11:12:08",
+    "temp": 24.6517,
+    "hum": 71.981,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "1.8 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2014-09-13 19:25:01",
+    "temp": 17.8606,
+    "hum": 75.6477,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "0.2 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2014-12-01 12:51:11",
+    "temp": 24.5805,
+    "hum": 79.6049,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "7.4 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2017-06-07 09:36:29",
+    "temp": 17.2973,
+    "hum": 65.1681,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "6.1 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2020-12-13 19:44:04",
+    "temp": 25.3752,
+    "hum": 66.3361,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "6.7 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2016-08-27 00:52:23",
+    "temp": 27.4334,
+    "hum": 74.4536,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "1.9 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2016-04-15 16:11:25",
+    "temp": 27.0815,
+    "hum": 61.9203,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "0.4 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2019-06-21 13:38:40",
+    "temp": 21.5324,
+    "hum": 70.9311,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "2.6 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2015-04-15 08:40:37",
+    "temp": 15.7032,
+    "hum": 74.9943,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "6.7 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2017-04-11 14:27:18",
+    "temp": 22.7399,
+    "hum": 75.0248,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "3.1 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2021-01-03 05:59:04",
+    "temp": 27.4518,
+    "hum": 78.3643,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "6 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2016-01-30 08:22:22",
+    "temp": 22.1919,
+    "hum": 71.8741,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "0.9 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2016-11-24 20:24:31",
+    "temp": 21.7104,
+    "hum": 71.9589,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "5.5 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2016-04-02 23:18:48",
+    "temp": 25.0715,
+    "hum": 77.463,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "2.5 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2020-01-12 15:09:41",
+    "temp": 23.3127,
+    "hum": 67.0634,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "2.6 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2019-10-27 19:06:07",
+    "temp": 25.5869,
+    "hum": 74.5625,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "1 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2019-05-16 00:11:25",
+    "temp": 19.0522,
+    "hum": 69.0081,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "7 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2017-01-10 12:05:31",
+    "temp": 16.8826,
+    "hum": 66.8805,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "6.9 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2014-08-09 04:38:11",
+    "temp": 26.3842,
+    "hum": 71.5172,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "7.5 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2015-10-08 05:14:47",
+    "temp": 18.3591,
+    "hum": 71.215,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "5.9 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2014-04-13 04:01:18",
+    "temp": 16.8355,
+    "hum": 67.6286,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "6.2 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2019-03-24 14:08:26",
+    "temp": 22.2647,
+    "hum": 67.4124,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "2.2 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2017-04-01 02:29:27",
+    "temp": 17.1274,
+    "hum": 74.8631,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "4.5 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2019-03-07 09:40:23",
+    "temp": 23.9672,
+    "hum": 79.4681,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "1 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2014-02-08 10:22:42",
+    "temp": 28.1817,
+    "hum": 66.4602,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "2 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2016-02-23 14:22:56",
+    "temp": 16.2226,
+    "hum": 65.7717,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "5.4 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2017-05-25 03:30:12",
+    "temp": 19.4738,
+    "hum": 71.6823,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "3.8 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2019-02-08 01:45:08",
+    "temp": 27.8244,
+    "hum": 77.0993,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "3.4 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2018-03-05 05:00:38",
+    "temp": 21.6202,
+    "hum": 77.9398,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "1.5 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2017-04-28 14:33:35",
+    "temp": 25.1509,
+    "hum": 61.3337,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "0.8 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2021-09-26 21:24:20",
+    "temp": 15.7145,
+    "hum": 77.5296,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "2.3 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2019-10-05 19:48:16",
+    "temp": 28.9268,
+    "hum": 70.6209,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "3.1 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2018-12-10 15:58:25",
+    "temp": 20.7077,
+    "hum": 67.5303,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "1.3 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2021-04-19 13:06:02",
+    "temp": 23.3055,
+    "hum": 75.9977,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "4.9 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2019-11-09 05:34:28",
+    "temp": 23.7442,
+    "hum": 69.909,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "3 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2016-01-03 05:13:05",
+    "temp": 19.293,
+    "hum": 67.9726,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "2.2 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-05",
+    "measured": "2019-05-17 01:57:27",
+    "temp": 16.4265,
+    "hum": 65.5049,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "0.1 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2018-04-11 04:46:31",
+    "temp": 29.8751,
+    "hum": 60.9663,
+    "connection_stats": {
+      "con_quality": "very low",
+      "speed": "6.3 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2018-11-16 00:51:07",
+    "temp": 21.162,
+    "hum": 74.7256,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "4.8 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2018-01-11 12:22:19",
+    "temp": 23.077,
+    "hum": 69.6457,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "7.3 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-01",
+    "measured": "2014-07-10 04:15:34",
+    "temp": 16.9617,
+    "hum": 71.2039,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "2.7 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-03",
+    "measured": "2017-12-08 06:47:59",
+    "temp": 15.1435,
+    "hum": 61.4506,
+    "connection_stats": {
+      "con_quality": "very high",
+      "speed": "0.9 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2018-09-06 04:18:35",
+    "temp": 21.8208,
+    "hum": 64.1384,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "0.5 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2017-11-19 21:59:50",
+    "temp": 23.1692,
+    "hum": 66.6827,
+    "connection_stats": {
+      "con_quality": "normal",
+      "speed": "2.4 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-04",
+    "measured": "2015-07-03 00:58:31",
+    "temp": 22.1786,
+    "hum": 74.5666,
+    "connection_stats": {
+      "con_quality": "high",
+      "speed": "2.1 Mbps"
+    }
+  },
+  {
+    "sensor_id": "S-02",
+    "measured": "2021-04-08 09:35:34",
+    "temp": 20.6309,
+    "hum": 70.4064,
+    "connection_stats": {
+      "con_quality": "low",
+      "speed": "4.5 Mbps"
+    }
+  }
+]
